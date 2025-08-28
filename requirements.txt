@@ -1,0 +1,8 @@
+nltk
+rouge-score
+pystoi
+numpy
+scipy
+torch
+torchvision
+pytorch-fid
